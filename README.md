@@ -1,3 +1,1 @@
-# Hello World!
-
-* bootstarp starting template
+# Bootstrap Starter Template Repo
