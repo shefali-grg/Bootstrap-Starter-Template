@@ -1,4 +1,3 @@
-
 <p align="center">
   <h3 align="center">Bootstrap Starter Template Repo</h3>
   <p align="center">
